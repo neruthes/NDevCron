@@ -1,2 +1,2 @@
-bash /home/neruthes/Developer/NDevSync-landdns
-bash /home/neruthes/Developer/NDevSync-wanddns
+bash /home/neruthes/DEV/NDevShellRC/bin/NDevSync-landdns
+bash /home/neruthes/DEV/NDevShellRC/bin/NDevSync-wanddns

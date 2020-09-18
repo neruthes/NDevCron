@@ -1,1 +1,1 @@
-bash /home/neruthes/Developer/NDevSync
+bash /home/neruthes/DEV/NDevShelRC/bin/NDevSync
