@@ -1,2 +1,2 @@
 cd /var/root/Developer/NDevCron
-git pull origin master
+git pull origin master -f
