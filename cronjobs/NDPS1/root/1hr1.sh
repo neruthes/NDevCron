@@ -1,3 +1,5 @@
+source /root/DEV/NDevShellRC/index.linux.sh
+
 cd /home/neruthes/DEV/NDevCron
 git pull origin master -f
 
