@@ -15,5 +15,3 @@ cd /root/DEV/NDevEtcConfBackup
 git pull origin master -f
 git commit -am "[AUTOCOMMIT] $(date)"
 git push origin master
-
-/root/DEV/NDevShellRC/bin/saturation-git-keeper pull-repos
