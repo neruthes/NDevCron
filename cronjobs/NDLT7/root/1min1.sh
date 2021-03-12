@@ -4,6 +4,6 @@
 # rm -r /home/neruthes/Downloads
 # rm -r /home/neruthes/Videos
 
-source /home/neruthes/.bashrc
+#source /home/neruthes/.bashrc
 
-NDevSync-wanddns
+#NDevSync-wanddns
