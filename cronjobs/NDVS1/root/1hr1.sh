@@ -15,3 +15,6 @@ cd /root/DEV/NDevEtcConfBackup
 git pull origin master -f
 git commit -am "[AUTOCOMMIT] $(date)"
 git push origin master
+
+# System services
+rc-service tincd restart
