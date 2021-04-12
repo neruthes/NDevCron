@@ -19,4 +19,4 @@ git push origin master
 # System services
 rc-service tincd restart
 echo "" > /var/log/messages
-rc-service tincd syslog-ng
+rc-service syslog-ng restart
